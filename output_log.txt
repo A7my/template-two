@@ -1,0 +1,223 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1404]
+    Renderer: AMD Radeon HD 8470D
+    Vendor:   ATI
+    VRAM:     674 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=1 ATOC=0
+Begin MonoManager ReloadAssembly
+Platform assembly: R:\Billiard\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading R:\Billiard\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: R:\Billiard\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading R:\Billiard\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: R:\Billiard\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading R:\Billiard\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: R:\Billiard\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading R:\Billiard\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: R:\Billiard\game_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading R:\Billiard\game_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.158 seconds
+Platform assembly: R:\Billiard\game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: R:\Billiard\game_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.983242 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 12f4 -> priority: 1 
+The referenced script on this Behaviour (Game Object 'pocket_C') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'pocket_C') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'pocket_F') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'pocket_F') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'pocket_E') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'pocket_E') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'MainMenuCamera') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'MainMenuCamera') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'pocket_B') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'pocket_B') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'pocket_D') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'pocket_D') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'pocket_A') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'pocket_A') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.495631 ms
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+DNSLookup: Error looking up connectiontester.unity3d.com (9852)
+Cannot resolve connection tester address, you must be connected to the internet before performing this or set the address to something accessible to you.
+ 
+(Filename:  Line: 667)
+
+sendto failed with code -1 for char 9 and length 1464.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3255.
+Total: 1.763734 ms (FindLiveObjects: 0.194920 ms CreateObjectMapping: 0.105829 ms MarkObjects: 1.315309 ms  DeleteObjects: 0.142275 ms)
+
+<url> malformed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1464.
+sendto failed with code -1 for char 9 and length 1172.
+sendto failed with code -1 for char 9 and length 1172.
+sendto failed with code -1 for char 9 and length 1172.
+sendto failed with code -1 for char 9 and length 1172.
+sendto failed with code -1 for char 9 and length 548.
+sendto failed with code -1 for char 9 and length 548.
+sendto failed with code -1 for char 9 and length 548.
+sendto failed with code -1 for char 9 and length 548.
+onAI ()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+sendto failed with code -1 for char 9 and length 548.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.188942 ms
+
+Unloading 365 unused Assets to reduce memory usage. Loaded Objects now: 615.
+Total: 11.273000 ms (FindLiveObjects: 0.070732 ms CreateObjectMapping: 0.051024 ms MarkObjects: 0.539676 ms  DeleteObjects: 10.609944 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 605.
+Total: 0.961644 ms (FindLiveObjects: 0.079912 ms CreateObjectMapping: 0.054804 ms MarkObjects: 0.748635 ms  DeleteObjects: 0.076132 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.367703 ms
+ProfileRight
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ProfileLeft
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 4462.
+Total: 1.770753 ms (FindLiveObjects: 0.255934 ms CreateObjectMapping: 0.096650 ms MarkObjects: 1.400620 ms  DeleteObjects: 0.016468 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.617100 ms
+
+Unloading 485 unused Assets to reduce memory usage. Loaded Objects now: 679.
+Total: 18.227776 ms (FindLiveObjects: 0.080182 ms CreateObjectMapping: 0.082881 ms MarkObjects: 0.787781 ms  DeleteObjects: 17.275312 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 670.
+Total: 2.213239 ms (FindLiveObjects: 0.064253 ms CreateObjectMapping: 0.047515 ms MarkObjects: 2.019399 ms  DeleteObjects: 0.080721 ms)
+
+The referenced script on this Behaviour (Game Object 'pocket_C') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'pocket_C') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'pocket_F') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'pocket_F') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'pocket_E') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'pocket_E') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'MainMenuCamera') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'MainMenuCamera') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'pocket_B') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'pocket_B') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'pocket_D') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'pocket_D') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'pocket_A') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'pocket_A') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.336116 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 3115.
+Total: 1.400890 ms (FindLiveObjects: 0.177102 ms CreateObjectMapping: 0.059664 ms MarkObjects: 1.151435 ms  DeleteObjects: 0.011338 ms)
+
+onExit ()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
